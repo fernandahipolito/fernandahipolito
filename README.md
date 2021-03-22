@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandahip%C3%B3lito/)](https://www.linkedin.com/in/fernandahip%C3%B3lito/)
 
 
-### Olá a todos 👋!! Sejam muito bem-vindes!!!
+### Olá a todes 👋!! Sejam muito bem-vindes!!!
 
 Sou Fernanda Hipólito Haddad, desenvolvedora mobile júnior Android | Kotlin 
 
