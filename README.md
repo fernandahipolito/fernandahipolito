@@ -1,5 +1,19 @@
-### Hi there 👋
+<img src="https://github.com/fernandahipolito/fernandahipolito/blob/master/imagem%20github.png" alt="Dark blue background banner, in the upper right corner, icon for social networks LinkedIn, Twitter and Instagram with the user next to @sandyaraperes. Below in Brazilian Portuguese: Hi, I'm Sandyara Peres, Android software engineer."/>
 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FernandaHipolito)](https://github.com/FernandaHipolito)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandahip%C3%B3lito/)](https://www.linkedin.com/in/fernandahip%C3%B3lito/)
+
+
+### Olá a todos 👋!! Sejam muito bem-vindes!!!
+
+Sou Fernanda Hipólito Haddad, desenvolvedora mobile júnior Android | Kotlin 
+
+:woman: 42 anos, iniciando transição de carreira  
+
+:sparkling_heart: Me aventurando, desbravando e me apaixonando pelo mundo da tecnologia através do Android | Kotlin
+
+:books: Estudante de Engenharia da Computação pela Univesp
 <!--
 **fernandahipolito/fernandahipolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
