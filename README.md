@@ -9,7 +9,7 @@
 
 Sou Fernanda Hipólito Haddad, desenvolvedora mobile júnior Android | Kotlin 
 
-:woman: 42 anos, iniciando transição de carreira  
+:woman: 44 anos, iniciando transição de carreira (done), atualmente dev Android 
 
 :sparkling_heart: Me aventurando, desbravando e me apaixonando pelo mundo da tecnologia através do Android | Kotlin
 
