@@ -9,11 +9,11 @@
 
 Sou Fernanda Hipólito Haddad, desenvolvedora mobile júnior Android | Kotlin 
 
-:woman: 44 anos, iniciando transição de carreira (done), atualmente dev Android 
+:woman: 46 anos, Desenvolvedora Android/Kotlin
 
 :sparkling_heart: Me aventurando, desbravando e me apaixonando pelo mundo da tecnologia através do Android | Kotlin
 
-:books: Estudante de Engenharia da Computação pela Univesp
+:books: Bacharelada em Tecnologia da Informação pela Univesp
 <!--
 **fernandahipolito/fernandahipolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
